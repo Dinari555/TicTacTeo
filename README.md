@@ -1,4 +1,4 @@
-# 🧠 Tic-Tac-Toe
+# 🧠 TicTacTeo
 
 Un mini-jeu **Tic-Tac-Toe (morpion)** en HTML, CSS et JavaScript.  
 Permet de jouer à deux joueurs, avec détection de victoire ou égalité.
@@ -20,4 +20,4 @@ Cliquez ici pour jouer en ligne : [lien GitHub Pages à ajouter]
 ## 🚀 Comment exécuter
 1. Téléchargez le dépôt ou clonez-le :
    ```bash
-   git clone https://github.com/votre-nom/tic-tac-toe.git
+   git clone https://github.com/Dinari555/TicTacTeo.git
